@@ -1,0 +1,10 @@
+.title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  word-spacing: 7px;
+  text-transform: capitalize;
+  font-size: 30px;
+  color: #ad6161;
+  text-align: center;
+  font-weight: bold;
+}
