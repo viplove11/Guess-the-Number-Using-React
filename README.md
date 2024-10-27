@@ -34,10 +34,17 @@ cd guess-number-game
 ```bash
 npm install
 ```
-
-4. Start the development server:
+4. Install bootstrap:
 ```bash
-npm start
+npm install bootstrap@5.3.3
+```
+5. Install react-icon :
+```bash
+npm install react-icon --save
+```
+6. Start the development server:
+```bash
+npm run dev
 ```
 
 5. Open your browser and visit `http://localhost:3000`
